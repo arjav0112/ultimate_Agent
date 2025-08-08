@@ -13,7 +13,7 @@ It integrates **Google Gemini**, **Gmail API**, **Google Calendar API**, **Tavil
 
 ## 📽 Demo
 [![Watch the demo](https://img.shields.io/badge/▶%20Watch%20Demo-blue)](#)  
-*_(Add your demo video link here)_*
+*_(https://www.loom.com/share/050dfb731e4d4bc197cfd71ac1ef65ef?sid=c3566642-d2ff-4379-bffa-58e8aa08fb6b)_*
 
 ---
 
