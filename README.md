@@ -135,5 +135,3 @@ This project is for educational and demonstration purposes.
 AI Developer | Automation Enthusiast | Building Intelligent Systems  
 
 If you found this project interesting, feel free to ⭐ the repository!
-
-## 🏗 Architecture Overview
