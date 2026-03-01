@@ -15,11 +15,7 @@ Built using **Google Gemini, Gmail API, Google Calendar API, Tavily Search, Airt
 
 ## 📽 Demo
 
-<p align="center">
-  <a href="https://www.loom.com/share/050dfb731e4d4bc197cfd71ac1ef65ef">
-    <img src="https://cdn.loom.com/sessions/thumbnails/050dfb731e4d4bc197cfd71ac1ef65ef-with-play.gif" alt="Watch Demo"/>
-  </a>
-</p>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/050dfb731e4d4bc197cfd71ac1ef65ef" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
